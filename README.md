@@ -3,7 +3,7 @@
 In this project, I built a machine learning model to predict house prices. I used a dataset with different property features like total area, number of bedrooms, bathrooms, and other amenities to see what actually drives a house's value up.
 
 ### What is this project about?
-Pricing a house isn't easy. I wanted to see if a machine learning algorithm could accurately estimate a property's selling price. Along the way, the goal was also to figure out which specific features—like adding an extra bathroom or having air conditioning—impact the final price the most.
+Pricing a house isn't easy. I wanted to see if a machine learning algorithm could accurately estimate a property's selling price. Along the way, the goal was also to figure out which specific features-like adding an extra bathroom or having air conditioning—impact the final price the most.
 
 ### The Data
 I worked with a dataset containing 545 houses. For each house, there are 13 different features recorded:
